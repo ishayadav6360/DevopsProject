@@ -1,0 +1,38 @@
+# Node Modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Coverage Folder
+coverage/
+
+# Build Files
+dist/
+build/
+
+# Docker
+*.tar
+
+# Temporary Files
+tmp/
+temp/
+
+# Jenkins
+.jenkins/
+
+# Package Lock (optional)
+# package-lock.json
